@@ -5,4 +5,6 @@
     <string name="numero_dos">Numero Dos</string>
     <string name="calcular">CALCULAR</string>
     <string name="btnBorrar">BORRAR</string>
+    <string name="error_uno">"Digite el numero uno"</string>
+    <string name="error_dos">"Digite el numero dos"</string>
 </resources>
